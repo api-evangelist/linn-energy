@@ -1,7 +1,9 @@
 ---
 title: Heres why LINN Energy LLC Rocked 15% Higher on ...
 url: https://www.foxbusiness.com/markets/heres-why-linn-energy-llc-rocked-15-higher-on-tuesday
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Linn Energy" press release artificial intelligence'
 position: 3
 source: serpapi-google

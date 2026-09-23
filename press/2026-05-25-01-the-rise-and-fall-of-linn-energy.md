@@ -1,7 +1,9 @@
 ---
 title: The Rise and Fall of Linn Energy
 url: https://www.oilandgas360.com/rise-fall-linn-energy/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Linn Energy" press release artificial intelligence'
 position: 1
 source: serpapi-google
